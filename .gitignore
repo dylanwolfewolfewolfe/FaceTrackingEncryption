@@ -4,5 +4,7 @@ __pycache__/
 *.pyc
 *.exe
 *.dll
+!hqc.dll
+!FaceEncryption/ring_lwe.dll
 *.o
 .vscode/
